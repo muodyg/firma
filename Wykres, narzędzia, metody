@@ -1,0 +1,63 @@
+----------------------------Diagram Gantta (Harmonogram Adamieckiego)----------------
+graf stosowany głównie w zarządzaniu projektami. 
+Uwzględnia się w nim podział projektu na poszczególne zadania,
+ oraz rozplanowanie ich w czasie.
+
+Istnieje wiele metod tworzenia diagramów Gantta, 
+jak również duża ilość możliwych do zastosowania 
+oznaczeń.
+
+Nazwa	Oznaczenie graficzne	Przykład	Znaczenie
+zadanie krytyczne	dowolnie zacieniowany prostokąt		
+			zadanie istotne, niepomijalne dla projektu,
+			 którego ukończenie warunkuje dalsze postępowanie;
+			zadania krytyczne i niekrytyczne spinane są przez 
+			podsumowanie
+
+
+zadanie niekrytyczne	prostokąt bez wypełnienia		
+			zadanie mniej istotne dla projektu – nie warunkuje 
+			jego powodzenia, choć może stanowić ułatwienie
+			 dla osiągnięcia celu
+
+
+podsumowanie	prostokąt, najczęściej wypełniony, z „ząbkami” na końcach		
+			jest to oznaczenie pewnego etapu projektu,
+			który składa się z zadań, zazwyczaj po podsumowaniu
+			występuje kamień milowy, który pozwala na zatwierdzenie 
+			danej fazy i przejście dalej
+
+
+
+kamień milowy	kwadrat obrócony o 45°, wypełniony		
+			szczególny rodzaj zadania, sygnał zakończenia pewnej fazy,
+			jednorazowe zdarzenie, warunkuje przejście do następnego 
+			etapu
+
+
+------------------Narzędzia do pracy grupowej programisty-----------------------
+
+ Duże, ale również nieco mniejsze projekty wymagają dobrej organizacji pracy.
+ Każdy programista to ważne ogniwo, które musi sprawnie łączyć się z pozostałymi.
+ Dzięki odpowiednim narzędziom można zwiększyć efektywność działań i poprawić 
+ organizację pracy koderów.
+
+	1. Git 2. Asana 3. Slack 4. Basecamp 5. Trello 6. JIRA
+
+
+----------------------------Metody pracy grupowej---------------------------------
+
+Grupą nazywamy każde zrzeszenie ludzi, które w świadomości tych ludzi stanowi
+odrębną całość, tak więc stosując metodę grupową, wychowawca ma przed sobą 
+zespolony przez wspólny cel zbiór osób - prowadzi on dialog nie z pojedynczymi 
+jednostkami, a całą grupą. Talent wychowawczy wyrażać się będzie w umiejętności 
+kierowania grupą oraz takiego oddziaływania na nią, aby wszyscy członkowie grupy 
+(nie tylko nauczyciel) stali na straży przyjętych przez siebie zasad i zadań.
+
+
+Proces grupowy przechodzi następujące, stałe etapy rozwoju
+1. TWORZENIE SIĘ GRUPY
+2. STABILIZACJA STRUKTURY I NORM GRUPOWYCH
+3. AKCEPTACJA I REALICACJA CELU GRUPY
+4. OCENA EFEKTÓW DZIAŁANIA I DECYZJA O DALSZYM ISTNIENIU GRUPY
+
