@@ -1,0 +1,2 @@
+# firma
+masa alkoholu wlewana przez gardziel rano rozstrój żołądka jak po mcdonaldzie debet rośnie minusy na saldzie ale my takie loty to lubimy najbardziej ja lecę jestem już w chmurach tu jest ostry kocioł tu zgubi cię brawura to awantura to druga tura słowiańska balanga nigdy nie ponura słowianów melanżu porywista wichura tu trunki szlachetne tu nikt nie zamula przy okrągłym stole jak u króla artura cgenuczbe soec
